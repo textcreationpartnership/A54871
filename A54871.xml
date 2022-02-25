@@ -1,0 +1,177 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A full relation of the taking of Roche Castle together with St. Patricks Cathedral, a place of great strength, wherein were put to the sword seven hundred rebels and many priests and friers : as also the taking in of many other places, all which was performed by the army under the command of the Lord Inchiquin, Lord President of the province of Munster in Ireland / sent in a letter from Colonel Alexander Pigot to a commander of note in this city.</title>
+            <author>Pigot, Alexander.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1647</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A54871</idno>
+            <idno type="STC">Wing P2218A</idno>
+            <idno type="STC">ESTC R28439</idno>
+            <idno type="EEBO-CITATION">10594855</idno>
+            <idno type="OCLC">ocm 10594855</idno>
+            <idno type="VID">45329</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A54871)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 45329)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1408:13)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A full relation of the taking of Roche Castle together with St. Patricks Cathedral, a place of great strength, wherein were put to the sword seven hundred rebels and many priests and friers : as also the taking in of many other places, all which was performed by the army under the command of the Lord Inchiquin, Lord President of the province of Munster in Ireland / sent in a letter from Colonel Alexander Pigot to a commander of note in this city.</title>
+                  <author>Pigot, Alexander.</author>
+                  <author>Inchiquin, Murrough O'Brien, Earl of, 1614-1674.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Humphrey Tuckey,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1647.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Sieges --  Ireland.</term>
+               <term>Ireland --  History --  Rebellion of 1641.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-05</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-05</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:45329:1"/>
+            <!-- PDF PAGE 7 -->
+            <p>A FULL RELATION Of the taking of <hi>ROCHE CASTLE,</hi> Together with S<hi rend="sup">t.</hi> Patricks Cathedral, A place of great ſtrength, wherein were put to the Sword Seven hundred Rebels, and many Prieſts and Friers.</p>
+            <p>AS ALSO The taking in of many other places, all which was performed by the Army under the Command of the Lord <hi>INCHIQ<g ref="char:V">Ʋ</g>IN,</hi> Lord Pre<g ref="char:EOLhyphen"/>ſident of the Province of <hi>Munſter</hi> in <hi>Ireland.</hi>
+            </p>
+            <p>SENT In a Letter from Colonel <hi>Alexander Pigot</hi> to a Commander of note in this City.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Humphrey Tuckey</hi> at the Black-ſpred Eagle in Fleet-ſtreet, 1647.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:45329:2"/>
+            <!-- PDF PAGE 8 -->
+            <pb n="3" facs="tcp:45329:2"/>
+            <!-- PDF PAGE 8 -->
+            <opener>
+               <salute>Noble Sir,</salute>
+            </opener>
+            <p>BY this opportunity of your Brothers go<g ref="char:EOLhyphen"/>ing over, I could not omit to let you know ſome particulars of the proceed<g ref="char:EOLhyphen"/>ings of this Army, and of the ſucceſſes that it hath pleaſed God to give us, ſince we mar<g ref="char:EOLhyphen"/>ched againſt the City of <hi>Caſhel:</hi> On the 12. of <hi>September</hi> the Soldiers Garriſoned in that City, being terrified with the ſudden taking of <hi>Chair</hi> Caſtle (a place of very great ſtrength, and im<g ref="char:EOLhyphen"/>portance on the River of <hi>Sewer</hi>) and with the ſtorming of <hi>Roches</hi> Caſtle upon that River, and putting the Warders to the ſword, being 50. in number, and with the burning of much corn, and divers Towns thereabouts, they deſerted the City, and retreated to the great Rock adjoyn<g ref="char:EOLhyphen"/>ing, whereon the Cathedral Church (called St. <hi>Patricks</hi>) is ſcituated, being a large and ſtately Pile, and the Church yard fortified. In this Church and Church-yard they had ſix full Companies of Foot, and divers Townſmen and Gentlemen, in all 800. or there abouts, be<g ref="char:EOLhyphen"/>ſides women and children, and all the goods they could in ſo ſhort a time get together, con<g ref="char:EOLhyphen"/>ceiving they were able to make it good againſt any oppoſition, that could be made againſt it.</p>
+            <p>
+               <pb n="4" facs="tcp:45329:3"/>
+               <!-- PDF PAGE 9 -->
+My Lord preſident gave order for the ſummon<g ref="char:EOLhyphen"/>ing of it, and upon conſideration of the ſtrength of the place, and of our want of bread, and want of convenient means for ſtorming the place, the Counſel of War reſolved to grant quarter unto them with bag and baggage, if they would by an hour ſurrender, which they refuſed, and ſtood on very high terms, but ſoon after propounded other terms which my Lord refuſed to accept, and willed the Drum, and two Offi<g ref="char:EOLhyphen"/>cers that came with him to return, for that not one man of them ſhould come forth alive, and declared unto us his will to ſtorm the place, though it ſeemed a very difficult work; whereup<g ref="char:EOLhyphen"/>on Sir <hi>William Bridges,</hi> Major <hi>Wearden,</hi> and other horſe Officers, cheerfully offered to unmount their men, and joyn with the Foot in ſtorming the place, and both Horſe and Foot were very willing to proceed therein, preparations being made with all poſſible diligence: on the 15 day of <hi>September,</hi> my Lord gave command, and we began the ſtorm; Sir <hi>William Bridges</hi> led up a<g ref="char:EOLhyphen"/>bove 150. unmounted men with their ſwords and piſtols, four Majors of Foot led up 200. a piece as a Forlorn hope to each poſt, and were ſeconded by four Lieut. Colonels, with 300. men a piece, and the Lord Preſident marched up with the body of the Army, with their Colors flying, and Drums beating: the remainder of the horſe (for the incouragement of the Foot) marching up within half Musket ſhot of the Rock. We fell on about three of the clock, and
+<pb n="5" facs="tcp:45329:3"/>
+               <!-- PDF PAGE 9 -->
+in an hour we were abſolute matters of it, having but eight men ſlain in the ſervice, beſides almoſt an hundred hurt, whereof it was my fortune to be one, having received a thruſt with a pike be<g ref="char:EOLhyphen"/>hinde my right ear, but I give God thanks I am well recovered of it, and ſo are moſt of the reſt, though they were ſorely bruiſed by the throw<g ref="char:EOLhyphen"/>ing of ſtones from the wall before we could en<g ref="char:EOLhyphen"/>ter; we made almoſt all their pikes unſerviceable by cutting off their heads. In the Church we killed above 700. men, whereof many were Prieſts and Friers, beſides ſome women that pe<g ref="char:EOLhyphen"/>riſhed in the action: I am confident ſo many men were not ſeen ſlain in ſo ſmall a compaſs of ground theſe many years; they lay five or ſix deep in many places, not one Officer or Soldier eſcaped, but one Major and the Governor, who as I hear is ſince dead of his wounds: before the Storm began, divers of the prime gentry being come upon licenſe to ſpeak with my Lord about rendring ſome other places, my Lord cauſed them to ſtand by, and ſee the ſtorming perform<g ref="char:EOLhyphen"/>ed, which you muſt think was to them no plea<g ref="char:EOLhyphen"/>ſant object: as ſoon as this was done the Sol<g ref="char:EOLhyphen"/>diers fell to plundering, and many of them got good ſtore of booty, among which were divers Pictures, Copes, Chalices and Veſtments of the Prieſts, and the Mitre of the Titulary Archbi<g ref="char:EOLhyphen"/>ſhop (who was lately fled to the ſupream Counſel leaving his Coach behinde him) 600 Arms, good ſtore of Powder, and alſo divers Colors with the Sword and Maces of the Mayor of the City,
+<pb n="6" facs="tcp:45329:4"/>
+               <!-- PDF PAGE 10 -->
+and ſome of the Aldermens Gowns that were brought to this City on the Soldiers backs, and here ſold. In the Church was found a Letter of the Lord <hi>Taffe</hi> General of the Rebels forces to incourage Lieut. Colonel <hi>Butler</hi> their Governor to hold out, taking the place to be impregnable.</p>
+            <p>I may not omit to tell you that the Rebels cal<g ref="char:EOLhyphen"/>led on St. <hi>Patrick</hi> for help all the time of the ſtorm and before, and ſome of them rung the bels in a very doleful tune, which our Soldiers told them was their knell, and ſo it proved, and divers of the Town and Country told us after<g ref="char:EOLhyphen"/>wards, that they would never truſt St. <hi>Patrick</hi> more. Before the ſtorm we underſtood by ma<g ref="char:EOLhyphen"/>ny in the Town that on new years day 1644. the Citizens of <hi>Caſhel</hi> murdered 120. Proteſtants whom they had kept in a dungeon to the knees in dirt a moneth before becauſe of their Religion onely, which is now paid home to them by the Providence of God.</p>
+            <p>From hence my Lord Preſident ſent a ſtrong party and entred the walled Town of <hi>Fethard,</hi> ſix miles diſtant, and having ſent the Foot home to refreſh them, ſent from theſe parts a ſtrong party of horſe under the command of Sir <hi>Wil<g ref="char:EOLhyphen"/>liam Bridges</hi> into the County of <hi>Kilkenny</hi> with directions to do what ſpoil, and to bring away what cattel he could. Sir <hi>William Bridges</hi> preten<g ref="char:EOLhyphen"/>ded to quarter at <hi>Fethard,</hi> and gave orders ac<g ref="char:EOLhyphen"/>cordingly, but uſed very great diligence in mar<g ref="char:EOLhyphen"/>ching as neer <hi>Kilkenny</hi> as he could, where he un<g ref="char:EOLhyphen"/>derſtood a great part of <hi>Owen R<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <g ref="char:punc">▪</g> O<g ref="char:punc">▪</g> Neals</hi> men
+<pb n="7" facs="tcp:45329:4"/>
+               <!-- PDF PAGE 10 -->
+were to defend the Supream Councel (as they call themſelves) the ſudden march of Sir <hi>William</hi> being noiſed at <hi>Callin</hi> an ancient Corporation, and a ſtrong walled Town, lying within ſix miles of <hi>Kilkenny</hi> upon the river; the Suffrain and Burgeſſes thereof fled towards <hi>Kilkenny</hi> with what they could carry, and left the Town open, whereof the Troopers made as good uſe as they could; and having burnt all the Corn there<g ref="char:EOLhyphen"/>abouts, Sir <hi>William Bridges</hi> and that party brought away 4000. head of cattel towards <hi>Fet<g ref="char:EOLhyphen"/>hard,</hi> but that night proving ſtormy, and the Troopers wearied with their march, they loſt neer two parts of them, and the reſt they brought home to this Garriſon: In all this march we went over as rich and goodly a Country, as ever I ſaw in <hi>England.</hi>
+            </p>
+            <p>My Lord is now taking his Muſters of the Ar<g ref="char:EOLhyphen"/>my, and intends to be ſuddenly abroad in the field again, having this Summer burnt corn from the gates of <hi>Limerick</hi> to <hi>Chaſhel, Clomnel,</hi> and <hi>Cal<g ref="char:EOLhyphen"/>len</hi> near <hi>Kilkenny</hi> which terrified the Inhabitants exceedingly, and gave ſuch an Alarm to the Su<g ref="char:EOLhyphen"/>pream Counſel at <hi>Kilkenny,</hi> as they never had the like ſince the war began; and were it not that our Soldiers were almoſt naked, and much wanting means and medicaments, I am very confident you would have an account of ſome Winter ſer<g ref="char:EOLhyphen"/>vice meriting thanks, as we think our former ſervice doth; having not been in Garriſon theſe
+<pb n="8" facs="tcp:45329:5"/>
+               <!-- PDF PAGE 11 -->
+ſix moneths, but only to get a little bread or biſquet, which if we had had, and Carriages in any reaſonable proportion, we had ſcarce ſeen our Garriſons all this while; and therefore I be<g ref="char:EOLhyphen"/>ſeech you, as you tender the ſervice of the Par<g ref="char:EOLhyphen"/>liament, and reducing of thoſe bloody wrongs, labor to get us (over before Winter) cloathes for our men, and ſome means to incourage the Officers and Soldiers, and to comfort them in ſickneſs after a hard and ſucceſsful Summer ſer<g ref="char:EOLhyphen"/>vice: ſo, Sir, praying for the good and happy ſuc<g ref="char:EOLhyphen"/>ceſs of the Parliament, and for your ſafe and ſpeedy return unto us with ſome to ſupply our wants, I remain</p>
+            <closer>
+               <signed>Your very humble ſervant, <hi>Alex: Pigot.</hi>
+               </signed>
+               <dateline>Cork,
+<date>Octob. 6. 1647.</date>
+               </dateline>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="imprimatur">
+            <p>Imprimatur</p>
+            <closer>
+               <signed>G. M.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:45329:5"/>
+            <!-- PDF PAGE 11 -->
+         </div>
+      </back>
+   </text>
+</TEI>
